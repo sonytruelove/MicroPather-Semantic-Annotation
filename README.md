@@ -1,5 +1,5 @@
 <h1>Актуальность</h1>
-Ниже представлено мое семантическое аннотирование библеотеки MicroPather написаной leethomason на С++. Я надеюсь это поможет разобраться в используемых приемах всем желающим.
+Ниже представлено мое семантическое аннотирование библиотеки MicroPather написаной leethomason на С++. Я надеюсь это поможет разобраться в используемых приемах всем желающим.
 <br>
 Below is my semantic annotation of the MicroPather library written by leethomason in C++. I hope this will help everyone understand the techniques used.
 <br>
