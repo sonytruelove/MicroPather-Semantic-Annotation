@@ -4255,9 +4255,9 @@ table.MsoTableGrid
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
   mso-border-left-themecolor:text1;mso-border-alt:solid black .5pt;mso-border-themecolor:
   text1;padding:0cm 5.4pt 0cm 5.4pt" width="167" valign="top">
-  <h2 style="line-height:normal;mso-outline-level:2"><a href="https://hyperpolyglot.org/cpp#continue"><span style="font-size:14.0pt;
+  <p style="line-height:normal;mso-outline-level:2"><a href="https://hyperpolyglot.org/cpp#continue"><span style="font-size:14.0pt;
   font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;font-weight:normal;mso-bidi-font-weight:
-  bold">continue</span></a><span style="font-size:14.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"></span></h2>
+  bold">continue</span></a><span style="font-size:14.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"></span></p>
   <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
   justify;line-height:normal;mso-pagination:none"><span style="font-size:14.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-ansi-language:
   EN-US" lang="EN-US">&nbsp;</span></p>
@@ -4298,9 +4298,9 @@ table.MsoTableGrid
   solid black .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid black .5pt;
   mso-border-left-themecolor:text1;mso-border-alt:solid black .5pt;mso-border-themecolor:
   text1;padding:0cm 5.4pt 0cm 5.4pt" width="167" valign="top">
-  <h2 style="line-height:normal;mso-outline-level:2"><a href="https://hyperpolyglot.org/cpp#coalesce"><span style="font-size:14.0pt;
+  <p style="line-height:normal;mso-outline-level:2"><a href="https://hyperpolyglot.org/cpp#coalesce"><span style="font-size:14.0pt;
   font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;font-weight:normal;mso-bidi-font-weight:
-  bold">coalesce</span></a><span style="font-size:14.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"></span></h2>
+  bold">coalesce</span></a><span style="font-size:14.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"></span></p>
   <h2 style="line-height:normal;mso-outline-level:2"><span style="font-size:
   14.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></h2>
   </td>
